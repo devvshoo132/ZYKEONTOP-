@@ -567,4 +567,11 @@ local GetPlayer = function(Name)
         return
     elseif Name == "random" then
         local GetPlayers = Players:GetPlayers()
-        if table.find(GetPl
+        if table.find(GetPle
+								
+	end,
+})							
+									
+
+								
+
